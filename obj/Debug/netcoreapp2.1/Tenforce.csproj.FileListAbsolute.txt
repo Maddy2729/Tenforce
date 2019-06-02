@@ -1,0 +1,11 @@
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\bin\Debug\netcoreapp2.1\Tenforce.deps.json
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\bin\Debug\netcoreapp2.1\Tenforce.runtimeconfig.json
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\bin\Debug\netcoreapp2.1\Tenforce.runtimeconfig.dev.json
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\bin\Debug\netcoreapp2.1\Tenforce.dll
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\obj\Debug\netcoreapp2.1\Tenforce.csprojAssemblyReference.cache
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\obj\Debug\netcoreapp2.1\Tenforce.csproj.CoreCompileInputs.cache
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\obj\Debug\netcoreapp2.1\Tenforce.AssemblyInfoInputs.cache
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\obj\Debug\netcoreapp2.1\Tenforce.AssemblyInfo.cs
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\bin\Debug\netcoreapp2.1\Tenforce.pdb
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\obj\Debug\netcoreapp2.1\Tenforce.dll
+C:\Users\NATRAJ_PC\source\repos\Tenforce\Tenforce\obj\Debug\netcoreapp2.1\Tenforce.pdb
