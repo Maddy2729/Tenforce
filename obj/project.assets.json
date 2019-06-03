@@ -874,11 +874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NATRAJ_PC\\source\\repos\\Tenforce\\Tenforce\\Tenforce.csproj",
+      "projectUniqueName": "C:\\Users\\NATRAJ_PC\\source\\repos\\temp\\Tenforce\\Tenforce.csproj",
       "projectName": "Tenforce",
-      "projectPath": "C:\\Users\\NATRAJ_PC\\source\\repos\\Tenforce\\Tenforce\\Tenforce.csproj",
+      "projectPath": "C:\\Users\\NATRAJ_PC\\source\\repos\\temp\\Tenforce\\Tenforce.csproj",
       "packagesPath": "C:\\Users\\NATRAJ_PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NATRAJ_PC\\source\\repos\\Tenforce\\Tenforce\\obj\\",
+      "outputPath": "C:\\Users\\NATRAJ_PC\\source\\repos\\temp\\Tenforce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

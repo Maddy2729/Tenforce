@@ -4,11 +4,12 @@ using System.Text;
 
 namespace Tenforce
 {
-    class Model
+    public class Model
     {
         string title;
-        string publisher;
         string authorname;
         string isbn;
+        string publisher;
+
     }
 }
